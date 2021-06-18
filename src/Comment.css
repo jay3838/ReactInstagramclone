@@ -1,0 +1,32 @@
+.comment{
+    border-top: 1px solid lightgray;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+}
+.comment > input{
+    width: 100%;
+    border:none;
+    height:40px;
+    font-size: 18px;
+    margin-left: 15px;
+
+
+}
+.comment >input:focus{
+    outline: none;
+}
+.comment >button:focus{
+    outline: none;
+}
+.comment > button{
+    border: none;
+    background-color: white;
+    font-size: 18px;
+    cursor: pointer;
+    color: gray;
+    /* display: none    ; */
+   
+    
+}

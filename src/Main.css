@@ -1,0 +1,11 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    flex: 0.7;
+    align-items: center;
+    margin-top: 30px;
+    /* border: 1px solid red; */
+    /* align-content: space-between;         */
+}
+
+

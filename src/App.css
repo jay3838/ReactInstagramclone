@@ -1,0 +1,29 @@
+.app{
+    border: 1px solid lightgray;
+    height: 500vh;
+    background-color: rgb(241, 241, 241);
+}
+
+.app__main{
+    display: flex;
+    /* border: 1px solid green; */
+    height: 85vh;
+}
+
+.header{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header__logo{
+    object-fit: contain;
+    width: 100%;
+    max-width: 145px;
+    margin-left: 20px;
+   
+}
+.header__right{
+    margin-right: 20px;
+    
+}

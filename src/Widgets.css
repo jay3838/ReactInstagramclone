@@ -1,0 +1,9 @@
+.widgets{
+    display: flex;
+    flex-direction: column;
+    border-left: 1px solid lightgray;
+    /* background-color: black; */
+    height: 200vh;
+    flex: 0.3;
+
+}
